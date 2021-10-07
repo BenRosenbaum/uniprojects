@@ -1,0 +1,18 @@
+Building the project failed.  Dependencies for all of the files in the project may not have been generated, so some included header files might not be located.
+Header file excluded from package: /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/include/avr/iom328p.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/common.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/fuse.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/interrupt.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/io.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/lock.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/portpins.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/sfr_defs.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/sleep.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/avr/version.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/inttypes.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/stdint.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/avr/include/string.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/lib/gcc/avr/5.4.0/include/cci.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/lib/gcc/avr/5.4.0/include/stddef.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/lib/gcc/avr/5.4.0/include/stdint.h
+Header file excluded from package: /Applications/microchip/xc8/v2.32/avr/lib/gcc/avr/5.4.0/include/xc.h

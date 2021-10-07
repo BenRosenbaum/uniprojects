@@ -1,0 +1,1009 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+                              build/default/production/ELEC3042_45582912_FinalProductCode.o (__divmodhi4)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+                              build/default/production/ELEC3042_45582912_FinalProductCode.o (__udivmodsi4)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+                              /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o (exit)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+                              build/default/production/ELEC3042_45582912_FinalProductCode.o (__tablejump2__)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+                              build/default/production/ELEC3042_45582912_FinalProductCode.o (__do_copy_data)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+                              build/default/production/ELEC3042_45582912_FinalProductCode.o (__movmemx_qi)
+/Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+                              /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+state               0x1               build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .bss           0x0000000000000000        0x0 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .text          0x0000000000000000        0x0 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .data          0x0000000000000000        0x0 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .bss           0x0000000000000000        0x0 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .text.read_AtoD
+                0x0000000000000000       0x22 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .text.I2C_SendData
+                0x0000000000000000       0x6c build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .text.hex      0x0000000000000000       0x1a build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .text.HazButton
+                0x0000000000000000       0x18 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .bss.flag      0x0000000000000000        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .bss.millis_timer2
+                0x0000000000000000        0x2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .bss.count_timer2
+                0x0000000000000000        0x2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .bss.current_state
+                0x0000000000000000        0x2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .bss.counter   0x0000000000000000        0x2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x19 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .stack.descriptors
+                0x0000000000000000       0x1c /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .stack.descriptors
+                0x0000000000000000       0x34 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .text          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800100 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/ELEC3042_45582912_FinalProductCode.o
+START GROUP
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const/libm.a
+END GROUP
+START GROUP
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const/libm.a
+LOAD /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const/libc.a
+LOAD /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/libatmega328p.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xee
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.main
+                0x0000000000000068       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+ *(.dinit)
+ .dinit         0x0000000000000088       0x11 data_init
+                0x000000000000009a                . = ALIGN (0x2)
+ *fill*         0x0000000000000099        0x1 
+                0x000000000000009a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000009a        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000009a                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x000000000000009a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000009a                __ctors_start = .
+ *(.ctors)
+                0x000000000000009a                __ctors_end = .
+                0x000000000000009a                __dtors_start = .
+ *(.dtors)
+                0x000000000000009a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000009a        0x0 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x000000000000009a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000009a        0xc /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000a6       0x3c /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_copy_data.o)
+                0x00000000000000a6                __do_copy_data
+                0x00000000000000d4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000e2        0x8 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ *(.init9)
+                0x00000000000000ea                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000ea        0x0 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+                0x00000000000000ea                exit
+                0x00000000000000ea                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000ea        0x4 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000ee                _etext = .
+
+.data           0x0000000000800100        0x0 load address 0x00000000000000ee
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800100                . = ALIGN (0x2)
+                0x0000000000800100                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800100        0x1
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000800100        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800100                state
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000ee                __data_load_start = LOADADDR (.data)
+                0x00000000000000ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800101        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800101                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2f
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/ELEC3042_45582912_FinalProductCode.o
+                                         0x30 (size before relaxing)
+
+.stack.descriptors.hdr
+                0x0000000000000000       0x54
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_exit.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x238
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x238 build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x2bb9
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_info    0x00000000000005f4     0x25c5 build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_abbrev   0x0000000000000000      0x8ae
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_abbrev  0x00000000000005a2      0x30c build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_line     0x0000000000000000     0x1535
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x137 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_line    0x0000000000000137     0x13fe build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_frame    0x0000000000000000      0x6ec
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x6ec build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_str      0x0000000000000000      0x21d
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_str     0x0000000000000208       0x15 build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_loc      0x0000000000000000      0x8ca
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x8ca build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x228
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x228 build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/Major_Project_Test.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+
+.bss.AtoD       0x000000000080010c        0x1
+ .bss.AtoD      0x000000000080010c        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000080010c                AtoD
+
+.bss.Tflag      0x000000000080010d        0x1
+ .bss.Tflag     0x000000000080010d        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000080010d                Tflag
+
+.bss.Pflag      0x000000000080010e        0x1
+ .bss.Pflag     0x000000000080010e        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000080010e                Pflag
+
+.bss.PBNflag    0x000000000080010f        0x1
+ .bss.PBNflag   0x000000000080010f        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000080010f                PBNflag
+
+.bss.PBSflag    0x0000000000800110        0x1
+ .bss.PBSflag   0x0000000000800110        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800110                PBSflag
+
+.bss.PLSflag    0x0000000000800111        0x1
+ .bss.PLSflag   0x0000000000800111        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800111                PLSflag
+
+.bss.LSflag     0x0000000000800112        0x1
+ .bss.LSflag    0x0000000000800112        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800112                LSflag
+
+.bss.BNMflag    0x0000000000800113        0x1
+ .bss.BNMflag   0x0000000000800113        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800113                BNMflag
+
+.bss.BBflag     0x0000000000800114        0x1
+ .bss.BBflag    0x0000000000800114        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800114                BBflag
+
+.bss.BSTflag    0x0000000000800115        0x1
+ .bss.BSTflag   0x0000000000800115        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800115                BSTflag
+
+.bss.BNTflag    0x0000000000800116        0x1
+ .bss.BNTflag   0x0000000000800116        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800116                BNTflag
+
+.bss.BTflag     0x0000000000800117        0x1
+ .bss.BTflag    0x0000000000800117        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800117                BTflag
+
+.bss.BSMflag    0x0000000000800118        0x1
+ .bss.BSMflag   0x0000000000800118        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800118                BSMflag
+
+.bss.millis     0x0000000000800101        0x4
+ .bss.millis    0x0000000000800101        0x4 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800101                millis
+
+.bss.HSperiod   0x0000000000800105        0x2
+ .bss.HSperiod  0x0000000000800105        0x2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800105                HSperiod
+
+.bss.period     0x0000000000800107        0x2
+ .bss.period    0x0000000000800107        0x2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800107                period
+
+.bss.count      0x0000000000800109        0x2
+ .bss.count     0x0000000000800109        0x2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000800109                count
+
+.progmemx.data  0x00000000000000ee       0x1a
+ .progmemx.data
+                0x00000000000000ee       0x1a build/default/production/ELEC3042_45582912_FinalProductCode.o
+
+.text.__vector_14
+                0x0000000000000108      0x426
+ .text.__vector_14
+                0x0000000000000108      0x426 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000108                __vector_14
+
+.text.main      0x000000000000052e      0x3ca
+ .text.main     0x000000000000052e      0x3ca build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000052e                main
+
+.text.LCD_quad  0x00000000000008f8      0x1a2
+ .text.LCD_quad
+                0x00000000000008f8      0x1a2 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000008f8                LCD_quad
+
+.text.__vector_1
+                0x0000000000000a9a      0x15c
+ .text.__vector_1
+                0x0000000000000a9a      0x15c build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000a9a                __vector_1
+
+.text.LCD_PCF8574_Setup
+                0x0000000000000bf6      0x128
+ .text.LCD_PCF8574_Setup
+                0x0000000000000bf6      0x128 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000bf6                LCD_PCF8574_Setup
+
+.text.LCD_State
+                0x0000000000000d1e      0x11c
+ .text.LCD_State
+                0x0000000000000d1e      0x11c build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000d1e                LCD_State
+
+.text.setup_SPI
+                0x0000000000000e3a       0x84
+ .text.setup_SPI
+                0x0000000000000e3a       0x84 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000e3a                setup_SPI
+
+.text.LCD_hex   0x0000000000000ebe       0x74
+ .text.LCD_hex  0x0000000000000ebe       0x74 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000ebe                LCD_hex
+
+.text.LCD_Write
+                0x0000000000000f32       0x66
+ .text.LCD_Write
+                0x0000000000000f32       0x66 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000f32                LCD_Write
+
+.text.I2C_Stop  0x0000000000000f98       0x62
+ .text.I2C_Stop
+                0x0000000000000f98       0x62 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000f98                I2C_Stop
+
+.text.LCD_sensorBSM
+                0x0000000000000ffa       0x50
+ .text.LCD_sensorBSM
+                0x0000000000000ffa       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000000ffa                LCD_sensorBSM
+
+.text.LCD_sensorBT
+                0x000000000000104a       0x50
+ .text.LCD_sensorBT
+                0x000000000000104a       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000104a                LCD_sensorBT
+
+.text.LCD_sensorBST
+                0x000000000000109a       0x50
+ .text.LCD_sensorBST
+                0x000000000000109a       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000109a                LCD_sensorBST
+
+.text.LCD_sensorBB
+                0x00000000000010ea       0x50
+ .text.LCD_sensorBB
+                0x00000000000010ea       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000010ea                LCD_sensorBB
+
+.text.LCD_sensorBNM
+                0x000000000000113a       0x50
+ .text.LCD_sensorBNM
+                0x000000000000113a       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000113a                LCD_sensorBNM
+
+.text.LCD_sensorBNT
+                0x000000000000118a       0x50
+ .text.LCD_sensorBNT
+                0x000000000000118a       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000118a                LCD_sensorBNT
+
+.text.LCD_sensorLS
+                0x00000000000011da       0x50
+ .text.LCD_sensorLS
+                0x00000000000011da       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000011da                LCD_sensorLS
+
+.text.LCD_sensorPBN
+                0x000000000000122a       0x50
+ .text.LCD_sensorPBN
+                0x000000000000122a       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000122a                LCD_sensorPBN
+
+.text.LCD_sensorPBS
+                0x000000000000127a       0x50
+ .text.LCD_sensorPBS
+                0x000000000000127a       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000127a                LCD_sensorPBS
+
+.text.LCD_sensorPLS
+                0x00000000000012ca       0x50
+ .text.LCD_sensorPLS
+                0x00000000000012ca       0x50 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000012ca                LCD_sensorPLS
+
+.text.I2C_PCF8574_LCD_Nibble
+                0x000000000000131a       0x46
+ .text.I2C_PCF8574_LCD_Nibble
+                0x000000000000131a       0x46 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000131a                I2C_PCF8574_LCD_Nibble
+
+.text.libgcc.div
+                0x0000000000001360       0x44
+ .text.libgcc.div
+                0x0000000000001360       0x44 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodsi4.o)
+                0x0000000000001360                __udivmodsi4
+
+.text.SPI_Read_Command
+                0x00000000000013a4       0x3a
+ .text.SPI_Read_Command
+                0x00000000000013a4       0x3a build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000013a4                SPI_Read_Command
+
+.text.LCD_Position
+                0x00000000000013de       0x3a
+ .text.LCD_Position
+                0x00000000000013de       0x3a build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000013de                LCD_Position
+
+.text.I2C_PCF8574_LCD_Byte
+                0x0000000000001418       0x38
+ .text.I2C_PCF8574_LCD_Byte
+                0x0000000000001418       0x38 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001418                I2C_PCF8574_LCD_Byte
+
+.text.timer_0setup
+                0x0000000000001450       0x32
+ .text.timer_0setup
+                0x0000000000001450       0x32 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001450                timer_0setup
+
+.text.LCD_clear
+                0x0000000000001482       0x32
+ .text.LCD_clear
+                0x0000000000001482       0x32 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001482                LCD_clear
+
+.text.SPI_Send_Command
+                0x00000000000014b4       0x2c
+ .text.SPI_Send_Command
+                0x00000000000014b4       0x2c build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000014b4                SPI_Send_Command
+
+.text.I2C_SLA   0x00000000000014e0       0x2a
+ .text.I2C_SLA  0x00000000000014e0       0x2a build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000014e0                I2C_SLA
+
+.text.libgcc.div
+                0x000000000000150a       0x28
+ .text.libgcc.div
+                0x000000000000150a       0x28 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_divmodhi4.o)
+                0x000000000000150a                __divmodhi4
+                0x000000000000150a                _div
+
+.text.libgcc.div
+                0x0000000000001532       0x28
+ .text.libgcc.div
+                0x0000000000001532       0x28 /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_udivmodhi4.o)
+                0x0000000000001532                __udivmodhi4
+
+.text.timer_1setup
+                0x000000000000155a       0x24
+ .text.timer_1setup
+                0x000000000000155a       0x24 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000155a                timer_1setup
+
+.text.I2C_Send  0x000000000000157e       0x24
+ .text.I2C_Send
+                0x000000000000157e       0x24 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000157e                I2C_Send
+
+.text.setup_LCD
+                0x00000000000015a2       0x22
+ .text.setup_LCD
+                0x00000000000015a2       0x22 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000015a2                setup_LCD
+
+.text.__vector_21
+                0x00000000000015c4       0x20
+ .text.__vector_21
+                0x00000000000015c4       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000015c4                __vector_21
+
+.text.I2C_Start
+                0x00000000000015e4       0x20
+ .text.I2C_Start
+                0x00000000000015e4       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000015e4                I2C_Start
+
+.text.sensorPBN
+                0x0000000000001604       0x20
+ .text.sensorPBN
+                0x0000000000001604       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001604                sensorPBN
+
+.text.BBus      0x0000000000001624       0x20
+ .text.BBus     0x0000000000001624       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001624                BBus
+
+.text.BCg       0x0000000000001644       0x20
+ .text.BCg      0x0000000000001644       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001644                BCg
+
+.text.BCy       0x0000000000001664       0x20
+ .text.BCy      0x0000000000001664       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001664                BCy
+
+.text.BCr       0x0000000000001684       0x20
+ .text.BCr      0x0000000000001684       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001684                BCr
+
+.text.BTg       0x00000000000016a4       0x20
+ .text.BTg      0x00000000000016a4       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000016a4                BTg
+
+.text.BTy       0x00000000000016c4       0x20
+ .text.BTy      0x00000000000016c4       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000016c4                BTy
+
+.text.BTr       0x00000000000016e4       0x20
+ .text.BTr      0x00000000000016e4       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000016e4                BTr
+
+.text.LSg       0x0000000000001704       0x20
+ .text.LSg      0x0000000000001704       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001704                LSg
+
+.text.LSy       0x0000000000001724       0x20
+ .text.LSy      0x0000000000001724       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001724                LSy
+
+.text.LSr       0x0000000000001744       0x20
+ .text.LSr      0x0000000000001744       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001744                LSr
+
+.text.Ped       0x0000000000001764       0x20
+ .text.Ped      0x0000000000001764       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001764                Ped
+
+.text.PF        0x0000000000001784       0x20
+ .text.PF       0x0000000000001784       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001784                PF
+
+.text.PD        0x00000000000017a4       0x20
+ .text.PD       0x00000000000017a4       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000017a4                PD
+
+.text.Tram      0x00000000000017c4       0x20
+ .text.Tram     0x00000000000017c4       0x20 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000017c4                Tram
+
+.text.sensorLS  0x00000000000017e4       0x1c
+ .text.sensorLS
+                0x00000000000017e4       0x1c build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000017e4                sensorLS
+
+.text.setup_AtoD
+                0x0000000000001800       0x1a
+ .text.setup_AtoD
+                0x0000000000001800       0x1a build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001800                setup_AtoD
+
+.text.sensorBB  0x000000000000181a       0x1a
+ .text.sensorBB
+                0x000000000000181a       0x1a build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000181a                sensorBB
+
+.text.sensorBNT
+                0x0000000000001834       0x1a
+ .text.sensorBNT
+                0x0000000000001834       0x1a build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001834                sensorBNT
+
+.text.libgcc    0x000000000000184e       0x1a
+ .text.libgcc   0x000000000000184e       0x1a /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_movmemx.o)
+                0x000000000000184e                __movmemx_qi
+                0x0000000000001850                __movmemx_hi
+
+.text.setup_I2C
+                0x0000000000001868       0x18
+ .text.setup_I2C
+                0x0000000000001868       0x18 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001868                setup_I2C
+
+.text.sensorBST
+                0x0000000000001880       0x18
+ .text.sensorBST
+                0x0000000000001880       0x18 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001880                sensorBST
+
+.text.sensorBNM
+                0x0000000000001898       0x18
+ .text.sensorBNM
+                0x0000000000001898       0x18 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001898                sensorBNM
+
+.text.LCD_TimePeriod
+                0x00000000000018b0       0x18
+ .text.LCD_TimePeriod
+                0x00000000000018b0       0x18 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000018b0                LCD_TimePeriod
+
+.text.sensorBT  0x00000000000018c8       0x16
+ .text.sensorBT
+                0x00000000000018c8       0x16 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000018c8                sensorBT
+
+.text.sensorPLS
+                0x00000000000018de       0x16
+ .text.sensorPLS
+                0x00000000000018de       0x16 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000018de                sensorPLS
+
+.text.sensorBSM
+                0x00000000000018f4       0x14
+ .text.sensorBSM
+                0x00000000000018f4       0x14 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x00000000000018f4                sensorBSM
+
+.text.sensorPBS
+                0x0000000000001908       0x14
+ .text.sensorPBS
+                0x0000000000001908       0x14 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001908                sensorPBS
+
+.text.SPI_transfer
+                0x000000000000191c        0xc
+ .text.SPI_transfer
+                0x000000000000191c        0xc build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000191c                SPI_transfer
+
+.text.I2C_wait  0x0000000000001928        0xc
+ .text.I2C_wait
+                0x0000000000001928        0xc build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001928                I2C_wait
+
+.text.LCD_Potentiometer
+                0x0000000000001934        0xc
+ .text.LCD_Potentiometer
+                0x0000000000001934        0xc build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x0000000000001934                LCD_Potentiometer
+
+.text.libgcc    0x0000000000001940        0xc
+ .text.libgcc   0x0000000000001940        0xc /Applications/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const/libgcc.a(_tablejump2.o)
+                0x0000000000001940                __tablejump2__
+
+.text.HazS      0x000000000000194c        0xa
+ .text.HazS     0x000000000000194c        0xa build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000000194c                HazS
+
+.text           0x0000000000001956        0x4
+ .text          0x0000000000001956        0x4 /Applications/microchip/mplabx/v5.45/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x0000000000001956                __vector_20
+                0x0000000000001956                __vector_24
+                0x0000000000001956                __vector_12
+                0x0000000000001956                __bad_interrupt
+                0x0000000000001956                __vector_6
+                0x0000000000001956                __vector_3
+                0x0000000000001956                __vector_23
+                0x0000000000001956                __vector_25
+                0x0000000000001956                __vector_11
+                0x0000000000001956                __vector_13
+                0x0000000000001956                __vector_17
+                0x0000000000001956                __vector_19
+                0x0000000000001956                __vector_7
+                0x0000000000001956                __vector_5
+                0x0000000000001956                __vector_4
+                0x0000000000001956                __vector_9
+                0x0000000000001956                __vector_2
+                0x0000000000001956                __vector_15
+                0x0000000000001956                __vector_8
+                0x0000000000001956                __vector_10
+                0x0000000000001956                __vector_16
+                0x0000000000001956                __vector_18
+                0x0000000000001956                __vector_22
+
+.data.addr      0x000000000080010b        0x1 load address 0x000000000000195a
+ .data.addr     0x000000000080010b        0x1 build/default/production/ELEC3042_45582912_FinalProductCode.o
+                0x000000000080010b                addr
